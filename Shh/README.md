@@ -1,7 +1,7 @@
 Secret Santa Program
 
 ###############################################
-HOW TO USE:
+<br>HOW TO USE:
 1. Add the names of people who want to participate in the Secret Santa in the "names = [] " variable
 2. Add the emails of the respective people in the "emails = [] " variable.  Make sure the emails correspond to the order in which the names are entered
 3. Assign a price limit in the "pricelimit = '' " variable
